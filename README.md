@@ -1,4 +1,4 @@
-#Wanhao Duplicator 6/ Monoprice Ultimate
+# Wanhao Duplicator 6/ Monoprice Ultimate
 
 Klipper printer.cfg file for Wanhao Duplicator 6/ Monoprice Ultimate
 
