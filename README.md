@@ -1,4 +1,3 @@
-# MonoPrice-Ultimate-Klipper-config
 Klipper printer.cfg file for Wanhao Duplicator 6/ Monoprice Ultimate
 
 Pin assignements taken from original Marlin firmware: https://github.com/garychen99/Duplicator-6-firmware-version-3.1
