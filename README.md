@@ -4,7 +4,7 @@ Pin assignements taken from original Marlin firmware: https://github.com/garyche
 .
 .
 .
-'''
+```
 #if MOTHERBOARD == 72
 #define KNOWN_BOARD
 /*****************************************************************
@@ -98,4 +98,4 @@ Pin assignements taken from original Marlin firmware: https://github.com/garyche
 #define encrot3 2
 
 #endif//MOTHERBOARD == 72
-'''
+```
