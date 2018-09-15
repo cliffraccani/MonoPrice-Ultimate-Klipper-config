@@ -1,6 +1,12 @@
-# MonoPrice-Ultimate-Klipper-config
+# Wanhao Duplicator 6/ Monoprice Ultimate
+
 Klipper printer.cfg file for Wanhao Duplicator 6/ Monoprice Ultimate
 
+Original Marlin firmware: https://github.com/garychen99/Duplicator-6-firmware-version-3.1
+
+Pin assignements:
+
+```
 #if MOTHERBOARD == 72
 #define KNOWN_BOARD
 /*****************************************************************
@@ -94,3 +100,4 @@ Klipper printer.cfg file for Wanhao Duplicator 6/ Monoprice Ultimate
 #define encrot3 2
 
 #endif//MOTHERBOARD == 72
+```
